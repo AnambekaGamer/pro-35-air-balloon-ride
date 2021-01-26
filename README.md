@@ -1,2 +1,2 @@
-# pro-35-air-balloon-ride
-game
+# p5.play-boilerplate
+Boiler plate for p5.play
